@@ -1,0 +1,16 @@
+cn\itcast\bos\service\base\impl\CourierServiceImpl.class
+cn\itcast\bos\service\base\AreaService.class
+cn\itcast\bos\service\base\impl\StandardServiceImpl.class
+cn\itcast\bos\service\base\impl\AreaServiceImpl.class
+cn\itcast\bos\web\action\base\AreaAction.class
+cn\itcast\bos\service\base\CourierService.class
+cn\itcast\bos\web\action\base\AreaAction$1.class
+cn\itcast\bos\service\base\StandardService.class
+cn\itcast\bos\dao\base\AreaRepository.class
+cn\itcast\bos\dao\base\StandardRepository.class
+cn\itcast\bos\web\action\base\CourierAction$1.class
+cn\itcast\bos\dao\base\CourierRepository.class
+cn\itcast\bos\utils\PinYin4jUtils.class
+cn\itcast\bos\web\action\base\CourierAction.class
+cn\itcast\bos\web\action\common\BaseAction.class
+cn\itcast\bos\web\action\base\StandardAction.class
